@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Loans Microservice for production profile"
+  message: "Loans Microservice for prod profile"
   contactDetails:
     email: "production-loans@gmail.com"
     phone: "1212122"
