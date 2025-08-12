@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Cards Microservice for QA profile"
+  contactDetails:
+    email: "QA-LEAD.loans@gmail.com"
+    phone: "234234234"
+  oncallSupport:
+    - (34) 234234234
+    - (34) 675324543

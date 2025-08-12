@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Accounts Microservice for QA profile"
+  contactDetails:
+    email: "QA-LEAD@gmail.com"
+    phone: "6161616161"
+  oncallSupport:
+    - (34) 612345678
+    - (34) 612345678

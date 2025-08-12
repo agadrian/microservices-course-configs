@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Loans Microservice"
+  contactDetails:
+    email: "adriagloans@gmail.com"
+    phone: "345435345"
+  oncallSupport:
+    - (34) 34534534
+    - (34) 612345345435345678

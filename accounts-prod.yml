@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Accounts Microservice for production profile"
+  contactDetails:
+    email: "production@gmail.com"
+    phone: "222222222"
+  oncallSupport:
+    - (34) 612345678
+    - (34) 612345678

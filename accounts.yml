@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Accounts Microservice"
+  contactDetails:
+    email: "adriag@gmail.com"
+    phone: "612345678"
+  oncallSupport:
+    - (34) 612345678
+    - (34) 612345678

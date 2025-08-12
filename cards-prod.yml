@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Cards Microservice for production profile"
+  contactDetails:
+    email: "production-cards@gmail.com"
+    phone: "1212122"
+  oncallSupport:
+    - (34) 5642342333
+    - (34) 4534534534
