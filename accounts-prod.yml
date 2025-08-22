@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts Microservice for propropro profile"
+  message: "Accounts Microservice for production profile"
   contactDetails:
     email: "{cipher}c36ebd47eabfbc471172cb74ac0db117c76aee62955d4e4194de5bffc5d9ca917b28da6719d998c80da812f51c036381"
     phone: "222222222"
